@@ -19,17 +19,6 @@ Welcome to the Tic Tac Toe Game Application! This project is a fully-featured mo
 - **Android SDK:** For building the mobile application
 - **MediaPlayer:** For handling sound effects
 
-## APK Download Link
-
-Download the latest version of the Tic Tac Toe Game Application from the link below:
-https://drive.google.com/file/d/1Br7WWyG0vXRgoofG5XA55JilKIH7TjmQ/view?usp=drive_link
-1. Download the APK file from the given link.
-2. Enable **"Unknown Sources"** on your Android device :
-- Go to **`Settings' > Security**.
-- Enable **'Unknown sources'** to allow installations from sources other than the Google Play Store.
-3. Install the APK:
-- Open the downloaded APK file.
-- Follow the on-screen instructions to install the app.
 
 ## Features
 
@@ -59,17 +48,6 @@ https://drive.google.com/file/d/1Br7WWyG0vXRgoofG5XA55JilKIH7TjmQ/view?usp=drive
 3. Play against your opponent in real-time.
 4. The game ends when a player wins or the board is full (draw).
 
-## Screenshots
-<img src="https://github.com/user-attachments/assets/04dc86f1-bd71-436c-bf29-71c0d107092b" width="200" /> 
-<img src="https://github.com/user-attachments/assets/2b75c5b0-1fe7-4b16-ad33-9be306b8a044" width="200" />
-<img src="https://github.com/user-attachments/assets/76055703-b42f-4f01-a599-077a9d944b2d" width="200" /> 
-<img src="https://github.com/user-attachments/assets/100cedfa-0352-4f8e-8cc1-b16a1e348f2e" width="200" /></br>
-<img src="https://github.com/user-attachments/assets/71b9d8ea-a680-47e3-9800-3f20876a0b91" width="200" />
-<img src="https://github.com/user-attachments/assets/91792548-d511-4383-8f29-f3ec6b7bd41d" width="200" />
-<img src="https://github.com/user-attachments/assets/dcdd424b-e724-4258-8710-20cd45170332" width="200" />
-
-## Acknowledgements
-- Thanks to the open-source community for the tools and libraries used in this project.
 
 
 
